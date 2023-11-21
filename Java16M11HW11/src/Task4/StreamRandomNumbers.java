@@ -1,4 +1,4 @@
-package Task4;
+package task4;
 
 import java.util.List;
 import java.util.stream.Collectors;
